@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "rootDirectory": "CrudBootstrap",
+  "builds": [
+    {
+      "src": "CrudBootstrap/index.php",
+      "use": "@vercel/php"
+    }
+  ]
+}
