@@ -1,6 +1,6 @@
 {
   "version": 2,
-
+  "rootDirectory": "index.php",
   "builds": [
     {
       "src": "CrudBootstrap/index.php",
@@ -9,3 +9,4 @@
   ]
 
 }
+
